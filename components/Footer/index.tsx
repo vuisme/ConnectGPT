@@ -10,12 +10,12 @@ const Footer = () => {
       >
         <div className="bg-primary/10 py-8">
           <div className="container">
-          <a href="https://www.producthunt.com/posts/connect-gpt?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-connect&#0045;gpt">
-          ⬆️ Find us on ProductHunt
+          <a href="https://m.me/bunhin">
+          ⬆️ Liên hệ với tôi
           </a>
             <p className="text-center text-base text-body-color dark:text-white">
-             admin@connectgpt.tech <br/>
-             twitter.com/ConnectGptSaas
+             me@vutn.net <br/>
+             +84977091190
             </p>
           </div>
         </div>
