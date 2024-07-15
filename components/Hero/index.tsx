@@ -26,11 +26,11 @@ const Hero = () => {
                 data-te-animation-on-scroll="repeat"
                 data-te-animation-show-on-load="true"
                 data-te-animation="[slide-right_1s_ease-in-out]">
-                24x7 Support AI bot for your customers
+                Tăng Cường Hiệu Suất Kinh Doanh Với CSKH AI Đa Ngôn Ngữ
                 </h1>
                 <p className="mb-12 text-base font-medium !leading-relaxed text-body-color dark:text-white dark:opacity-90 sm:text-lg md:text-xl">
-                Don&apos;t lag behind in this race of AI automation. Get your own AI assistant 
-                to help your customers solve their queries and problems and increase your sales.
+                Đừng bỏ lỡ cơ hội dẫn đầu trong kỷ nguyên tự động hóa AI. Hãy trang bị cho doanh nghiệp của bạn một trợ lý AI thông minh,
+                giúp khách hàng giải đáp mọi thắc mắc và vấn đề một cách nhanh chóng, đồng thời tăng doanh số bán hàng vượt bậc.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
@@ -38,7 +38,7 @@ const Hero = () => {
                     className="rounded-md bg-primary py-4 px-8 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80"
                     style={{ width: "600px" }}
                   >
-                   🔥 Join the waitlist
+                   🔥 Tôi Muốn
                   </Link>
                 </div>
               </div>
