@@ -5,8 +5,8 @@ const ContactPage = () => {
   return (
     <>
       <Breadcrumb
-        pageName="Waitlist"
-        description="Liên hệ với chúng tôi."
+        pageName="Còn chờ gì nữa?"
+        description="Liên hệ với chúng tôi để được tư vấn và dùng thử miễn phí."
       />
 
       <Contact />
