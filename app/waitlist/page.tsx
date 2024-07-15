@@ -6,7 +6,7 @@ const ContactPage = () => {
     <>
       <Breadcrumb
         pageName="Waitlist"
-        description="Success is just one waitlist away."
+        description="Liên hệ với chúng tôi."
       />
 
       <Contact />
